@@ -1,0 +1,33 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color:white;
+    color: red;
+}
+
+.panel ul li {
+    list-style-type: none;
+    float: left;
+    margin: 0px 10px;
+} 
+
+.panel{
+    text-align: center;
+    float: right;
+}
+
+.logo{
+    text-align: center;
+}
+
+.arama{
+    text-align: center;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.arama p{
+    color: black;
+}
